@@ -23,5 +23,4 @@ public class BasicDo {
         } while (counter <= 100);
         System.out.println("Counter = " + counter);
     }
-    
 }
