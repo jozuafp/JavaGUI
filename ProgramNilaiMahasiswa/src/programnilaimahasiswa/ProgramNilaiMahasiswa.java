@@ -52,5 +52,4 @@ public class ProgramNilaiMahasiswa {
         System.exit(0);
 
     } // Akhir metoda main
-} // Akhir kelas NilaiRata2
-
+} 
