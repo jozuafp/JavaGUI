@@ -17,10 +17,13 @@ public class InputTextGUI {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //
         String nama = JOptionPane.showInputDialog("nama : ");
         String usia = JOptionPane.showInputDialog("usia : ");
+        //
         System.out.println("Nama saya adalah " + nama);
         System.out.println("Usia saya " + usia + " tahun");
+        //
         System.exit(0);
     }
     
