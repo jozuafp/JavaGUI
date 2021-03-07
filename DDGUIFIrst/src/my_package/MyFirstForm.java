@@ -63,7 +63,7 @@ public class MyFirstForm extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(this, "Hello STIKI");
+        JOptionPane.showMessageDialog(this, "Hello STIKI Malang");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
