@@ -1,0 +1,8 @@
+1. Copy project ini ke folder yang mudah Anda ingat
+2. Install xampp, jika belum ada, karena kita butuh menjalankan phpmyadmin
+3. Aktifkan phpmyadmin, dan buat database dengan nama 'perpustakaan'
+4. Berikutnya import file 'perpustakaan.sql' ke dalam database 'perpustakaan'
+5. Setelah berhasil, bukalah aplikasi netbeans Anda
+6. Buka project dengan cara klik menu 'File' -> 'Open Project'
+6. Cari project 'perpustakaan' yang sudah Anda copy ke folder Anda (cek no. 1)
+7. Klik 'Open Project', cobalah run, dan kemudian pelajari kode-kode programnya

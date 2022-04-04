@@ -25,6 +25,7 @@ public class InputTextGUI {
         System.out.println("Usia saya " + usia + " tahun");
         //
         System.exit(0);
+        //
     }
     
 }
